@@ -1,0 +1,24 @@
+1.Grading System: Write a Python program that takes a student's score as input and prints out the corresponding grade according to the following grading scale:
+
+90 or above: A
+80-89: B
+70-79: C
+60-69: D
+Below 60: F
+2.Even or Odd: Write a Python program that takes an integer as input and prints whether it's even or odd.
+
+3.Largest among Three Numbers: Write a Python program that takes three numbers as input and prints the largest among them.
+
+4.Leap Year Checker: Write a Python program that takes a year as input and prints whether it's a leap year or not. (A leap year is divisible by 4, but not by 100 unless it's also divisible by 400.)
+
+5.Vowel or Consonant: Write a Python program that takes a character (a-z or A-Z) as input and prints whether it's a vowel or a consonant.
+
+6.Age Classifier: Write a Python program that takes a person's age as input and prints out whether they are an infant, child, teenager, adult, or senior citizen. (You can define age ranges for each category as you see fit.)
+
+7.Triangle Type Checker: Write a Python program that takes the lengths of three sides of a triangle as input and prints out whether it's an equilateral, isosceles, or scalene triangle.
+
+8.Number Comparison: Write a Python program that takes two numbers as input and prints out whether the first number is greater than, less than, or equal to the second number.
+
+9.Positive, Negative, or Zero: Write a Python program that takes a number as input and prints whether it's positive, negative, or zero.
+
+10.Day of the Week: Write a Python program that takes a number representing the day of the week (1 for Monday, 2 for Tuesday, etc.) as input and prints out the corresponding day.

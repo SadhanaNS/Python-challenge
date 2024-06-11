@@ -1,0 +1,2 @@
+
+The amount which is in center is total billed amount
